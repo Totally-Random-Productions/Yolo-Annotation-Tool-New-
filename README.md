@@ -20,3 +20,5 @@ run process.py
 NOTE: If you use new annotation tool, please create classes.txt file and write all classes what you train the objects. Because i read the all classes from classes.txt.
 
 The dataset is ready for yolo training.
+
+The code has been error corrected for syntax errors and resizes inputted images to fit the tool. 
