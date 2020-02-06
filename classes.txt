@@ -1,2 +1,4 @@
-cat
-dog
+orange 
+cocoa
+lemon
+papaya
