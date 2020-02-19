@@ -74,6 +74,7 @@
       <workItem from="1582019656919" duration="99000" />
       <workItem from="1582056732862" duration="3453000" />
       <workItem from="1582060406855" duration="1261000" />
+      <workItem from="1582128689869" duration="2398000" />
     </task>
     <servers />
   </component>
@@ -95,6 +96,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Yolo_Annotation_Tool_New_$main.coverage" NAME="process Coverage Results" MODIFIED="1582060393736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Yolo_Annotation_Tool_New_$process.coverage" NAME="process Coverage Results" MODIFIED="1582061163407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Yolo_Annotation_Tool_New_$process.coverage" NAME="process Coverage Results" MODIFIED="1582130767717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
