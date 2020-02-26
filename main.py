@@ -186,8 +186,8 @@ class LabelTool():
         # load image
         imagepath = self.imageList[self.cur - 1]
         self.img = Image.open(imagepath)
-        self.img = self.img.rotate(-90)
-        self.img = self.img.resize((800, 800), Image.ANTIALIAS)
+        #self.img = self.img.rotate(-90)
+        self.img = self.img.resize((700, 700), Image.ANTIALIAS)
         self.curimg_w, self.curimg_h = self.img.size
         self.tkimg = ImageTk.PhotoImage(self.img)
         self.mainPanel.config(width=max(self.tkimg.width(), 2000), height=max(self.tkimg.height(), 2000))
